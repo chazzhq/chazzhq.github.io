@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liqiuchi7.github.io</id>
+    <title>李叉子</title>
+    <updated>2020-11-08T09:51:48.988Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liqiuchi7.github.io"/>
+    <link rel="self" href="https://liqiuchi7.github.io/atom.xml"/>
+    <logo>https://liqiuchi7.github.io/images/avatar.png</logo>
+    <icon>https://liqiuchi7.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 李叉子</rights>
+    <entry>
+        <title type="html"><![CDATA[新“欲速则不达”]]></title>
+        <id>https://liqiuchi7.github.io/post/xin-yu-su-ze-bu-da/</id>
+        <link href="https://liqiuchi7.github.io/post/xin-yu-su-ze-bu-da/">
+        </link>
+        <updated>2020-11-08T09:42:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>祝愿，在社会提速的今天，人人欲速就能速。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>祝愿，在社会提速的今天，人人欲速就能速。</p>
+]]></content>
+    </entry>
+</feed>
